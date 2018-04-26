@@ -52,11 +52,7 @@
 			window.onload = function() { document.body.className = ''; }
 			window.ontouchmove = function() { return false; }
 			window.onorientationchange = function() { document.body.scrollTop = 0; }
-		</script>
-		
-		
-		
-		<script>
+	
 			if('serviceWorker' in navigator) {
   			navigator.serviceWorker
            		.register('/service-worker.js')
