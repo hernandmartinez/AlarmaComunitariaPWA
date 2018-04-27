@@ -26,7 +26,6 @@
       "sizes": "512x512",
       "type": "image/png"
     }],
- // "start_url": "https://hernandmartinez.github.io/AlarmaComunitariaPWA/index.html",
   "start_url": "./?utm_source=web_app_manifest",
   "display": "standalone",
   "background_color": "#3E4EB8",
